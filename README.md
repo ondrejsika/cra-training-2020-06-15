@@ -8,3 +8,8 @@
 ## Questions?
 
 In case of any questionm, write me an email to <ondrej@sika.io>
+
+## Training Repositories
+
+- Docker Training - <https://github.com/ondrejsika/docker-training>
+- Kubernetes Training - <https://github.com/ondrejsika/kubernetes-training>
