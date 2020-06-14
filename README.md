@@ -4,3 +4,7 @@
 
     2020 Ondrej Sika <ondrej@ondrejsika.com>
     https://github.com/ondrejsika/cra-training-2020-06-15
+
+## Questions?
+
+In case of any questionm, write me an email to <ondrej@sika.io>
